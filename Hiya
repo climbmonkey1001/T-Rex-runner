@@ -1,0 +1,2 @@
+Console.Write("Enter a number: ");
+string choice = int.parse(Console.ReadLine());
